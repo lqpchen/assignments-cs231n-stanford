@@ -1,6 +1,6 @@
 # README
 
-This repo contains all the three assignments I did for the popular class CS231n, which covers most of the hot topics in deep learning like CNN, RNN, GAN, etc. 
+This repo contains all the three assignments I did for the popular online class CS231n, which covers most of the hot topics in deep learning like CNN, RNN, GAN, etc. 
 
 The [assignments](https://cs231n.github.io/) are from 2021, but the [course materials](http://cs231n.stanford.edu/2017/syllabus.html) that I used are from 2017 since video lectures are only available in 2017. 
 
